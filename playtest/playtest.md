@@ -2,6 +2,6 @@
 ## Playtest
 
 ## Play the game
-Play the game prototye [here](prototype/Kitsune.html)
+Play the game prototype [here](prototype/Kitsune.html)
 
 ## Complete the playtest survey
